@@ -1,3 +1,5 @@
 *.doc
 *.exe
 Thumbs.db
+build/
+.DS_store
